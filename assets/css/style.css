@@ -74,14 +74,14 @@ article {
   background-color: var(--light);
 }
 
-h2 {
+.about-me {
   margin: 2% 0;
   padding-bottom: 80%;
   font-size:100%;
   text-align: center;
 }
 
-h3 {
+.work {
   margin: 2% 0;
   padding-top: 100%;
   font-size:100%;
@@ -89,7 +89,7 @@ h3 {
   
 }
 
-h4 {
+.resume {
   margin: 2% 0;
   padding-top:300%;
   font-size:100%;

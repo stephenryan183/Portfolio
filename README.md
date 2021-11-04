@@ -1,23 +1,12 @@
-For my Portfolio I wanted to display all I have learned through coding as well as display my projects so far, that have also been conducted through the coding language of HTML
+## Personal Portfolio
 
-On this Portfolio I have listed the following
+### [Live Site](https://jsmasterypro.com)
 
- * The title of the portfolio with links to the various headers that when clicked on will take you to that part of the webpage
+![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
- * The projects that I have completed so far that has made me qualified as a Software Developer
+This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
 
- * My contact Information that will take you to the following links of my email, Linkedin, and GitHub, as well as my cell number
+In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
 
- * And Lastly a picture of yours truley
-
-    Thank you for taking the time to look over my Portfolio!
-
-Below is a link of my Portfolio Website
-
- ![picture](assets/images/screenshotofme.png);
-
-Below is a link to the Portfolio website
-
-https://stephenryan183.github.io/stephen-ryan-portfolio/
-
-
+Setup:
+- run ```npm i && npm start```
